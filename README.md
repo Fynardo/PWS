@@ -1,5 +1,5 @@
 # PWS
-peman weather station
+Peman Weather Station. Sistema de control para un huerto casero.
 ## Intro
 Idea surgida de un hack lab del GPUL, vamos a ver hasta donde llega.
 Repo antiguo : [hacklabgpul](https://github.com/mandrewcito/hackLabGpul/)
